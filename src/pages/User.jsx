@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { FaCodepen, FaStore, FaUserFriends, FaUsers} from 'react-icons/fa';
 import { useEffect, useContext } from 'react';
 import { Link } from 'react-router-dom';
