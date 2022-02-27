@@ -1,5 +1,3 @@
-import { FaAcquisitionsIncorporated } from "react-icons/fa"
-
 const githubReducer = (state, action) => {
   switch (action.type) {
     case 'GET_USERS':
